@@ -29,3 +29,13 @@
 ### Поражение
 
 [![НОД поражение] https://asciinema.org/a/IySt6yq5jcqVDgYR
+
+## Игра «Арифметическая прогрессия»
+
+### Победа
+
+[![Прогрессия победа] https://asciinema.org/a/TzwTdpU1cvuUVGAK
+
+### Поражение
+
+[![Прогрессия поражение] https://asciinema.org/a/oPlbxVEswpROd46x
