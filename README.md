@@ -19,3 +19,13 @@
 ### Поражение
 
 [![Поражение в калькуляторе] https://asciinema.org/a/PceHSIuWmImGv7O4
+
+## Игра «НОД»
+
+### Победа
+
+[![НОД победа] https://asciinema.org/a/LzQlPUjTQ205pPL4
+
+### Поражение
+
+[![НОД поражение] https://asciinema.org/a/IySt6yq5jcqVDgYR
