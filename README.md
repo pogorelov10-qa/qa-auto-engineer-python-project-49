@@ -9,3 +9,13 @@
 ## Демонстрация поражения
 
 [![Поражение] https://asciinema.org/a/ClHDTkMHkZE4Q4ng
+
+## Игра «Калькулятор»
+
+### Победа
+
+[![Победа в калькуляторе] https://asciinema.org/a/VSzP4gG6hikO7NbH
+
+### Поражение
+
+[![Поражение в калькуляторе] https://asciinema.org/a/PceHSIuWmImGv7O4
