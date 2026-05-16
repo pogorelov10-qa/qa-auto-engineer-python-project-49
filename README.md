@@ -39,3 +39,13 @@
 ### Поражение
 
 [![Прогрессия поражение] https://asciinema.org/a/oPlbxVEswpROd46x
+
+## Игра «Простое ли число?»
+
+### Победа
+
+[![Простое число победа] https://asciinema.org/a/fWv5ru81YsmaxsTl 
+
+### Поражение
+
+[![Простое число поражение] https://asciinema.org/a/DDfP8oWu0nO14maT
