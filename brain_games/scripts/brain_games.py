@@ -5,3 +5,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+def list_of_text(x):
+    return x
+
+print(sorted(list_of_text()))
