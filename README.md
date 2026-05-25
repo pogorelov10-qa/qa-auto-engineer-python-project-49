@@ -5,48 +5,48 @@
 
 ## Демонстрация победы
 
-[![Победа] https://asciinema.org/a/Z7mKWpmYcLdTHGRO
+[![Победа](https://asciinema.org/a/Z7mKWpmYcLdTHGRO.svg)](https://asciinema.org/a/Z7mKWpmYcLdTHGRO)
 
 ## Демонстрация поражения
 
-[![Поражение] https://asciinema.org/a/ClHDTkMHkZE4Q4ng
+[![Поражение](https://asciinema.org/a/ClHDTkMHkZE4Q4ng.svg)](https://asciinema.org/a/ClHDTkMHkZE4Q4ng)
 
 ## Игра «Калькулятор»
 
 ### Победа
 
-[![Победа в калькуляторе] https://asciinema.org/a/VSzP4gG6hikO7NbH
+[![Победа в калькуляторе](https://asciinema.org/a/VSzP4gG6hikO7NbH.svg)](https://asciinema.org/a/VSzP4gG6hikO7NbH)
 
 ### Поражение
 
-[![Поражение в калькуляторе] https://asciinema.org/a/PceHSIuWmImGv7O4
+[![Поражение в калькуляторе](https://asciinema.org/a/PceHSIuWmImGv7O4.svg)](https://asciinema.org/a/PceHSIuWmImGv7O4)
 
 ## Игра «НОД»
 
 ### Победа
 
-[![НОД победа] https://asciinema.org/a/LzQlPUjTQ205pPL4
+[![НОД победа](https://asciinema.org/a/LzQlPUjTQ205pPL4.svg)](https://asciinema.org/a/LzQlPUjTQ205pPL4)
 
 ### Поражение
 
-[![НОД поражение] https://asciinema.org/a/IySt6yq5jcqVDgYR
+[![НОД поражение](https://asciinema.org/a/IySt6yq5jcqVDgYR.svg)](https://asciinema.org/a/IySt6yq5jcqVDgYR)
 
 ## Игра «Арифметическая прогрессия»
 
 ### Победа
 
-[![Прогрессия победа] https://asciinema.org/a/TzwTdpU1cvuUVGAK
+[![Прогрессия победа](https://asciinema.org/a/TzwTdpU1cvuUVGAK.svg)](https://asciinema.org/a/TzwTdpU1cvuUVGAK)
 
 ### Поражение
 
-[![Прогрессия поражение] https://asciinema.org/a/oPlbxVEswpROd46x
+[![Прогрессия поражение](https://asciinema.org/a/oPlbxVEswpROd46x.svg)](https://asciinema.org/a/oPlbxVEswpROd46x)
 
 ## Игра «Простое ли число?»
 
 ### Победа
 
-[![Простое число победа] https://asciinema.org/a/fWv5ru81YsmaxsTl 
+[![Простое число победа](https://asciinema.org/a/fWv5ru81YsmaxsTl.svg)](https://asciinema.org/a/fWv5ru81YsmaxsTl)
 
 ### Поражение
 
-[![Простое число поражение] https://asciinema.org/a/DDfP8oWu0nO14maT
+[![Простое число поражение](https://asciinema.org/a/DDfP8oWu0nO14maT.svg)](https://asciinema.org/a/DDfP8oWu0nO14maT)
