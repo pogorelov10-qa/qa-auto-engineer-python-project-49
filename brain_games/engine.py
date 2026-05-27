@@ -23,3 +23,4 @@ def run_game(game_module):
         correct_answers += 1
 
     print(f'Congratulations, {name}!')
+    return name
